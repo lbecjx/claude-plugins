@@ -1,23 +1,27 @@
 # lbecjx
 
-A [Claude Code](https://code.claude.com) plugin marketplace. Just a catalog — it lists plugins that live in their own, independent repos; it doesn't contain any plugin code itself.
+Claude Code plugins I share with the community, born out of my day-to-day work as a Fullstack & AI Engineer. One place. Everything below.
 
-## Plugins
+## Quick install
 
-| Plugin | Repo |
-|---|---|
-| `workflow-dev` | [lbecjx/workflow-dev](https://github.com/lbecjx/workflow-dev) |
-| `local-backlog` | [lbecjx/local-backlog](https://github.com/lbecjx/local-backlog) |
-
-## Installation
+Install the marketplace:
 
 ```
 /plugin marketplace add lbecjx/claude-plugins
-/plugin install workflow-dev@lbecjx
-/plugin install local-backlog@lbecjx
 ```
 
-Each plugin can also be installed on its own, straight from its own repo, without this marketplace — see that repo's README.
+Install any plugin:
+
+```
+/plugin install <plugin-name>@lbecjx
+```
+
+## Plugins
+
+| Plugin | What it does | Install |
+|---|---|---|
+| [`workflow-dev`](https://github.com/lbecjx/workflow-dev) | Persistent-context, quality-gated development workflow — plans work into task groups, executes with enforced rules, and runs a quality gate before every commit | `/plugin install workflow-dev@lbecjx` |
+| [`local-backlog`](https://github.com/lbecjx/local-backlog) | Local issue/story tracking as plain Markdown, with a searchable local viewer — no cloud tracker needed | `/plugin install local-backlog@lbecjx` |
 
 ## License
 
