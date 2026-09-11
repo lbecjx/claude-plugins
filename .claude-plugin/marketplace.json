@@ -1,0 +1,19 @@
+{
+  "name": "lbecjx",
+  "description": "Claude Code plugins by @lbecjx.",
+  "owner": {
+    "name": "lbecjx"
+  },
+  "plugins": [
+    {
+      "name": "workflow-dev",
+      "description": "A Claude Code plugin for a persistent-context, quality-gated development workflow.",
+      "source": { "source": "github", "repo": "lbecjx/workflow-dev" }
+    },
+    {
+      "name": "local-backlog",
+      "description": "A Claude Code plugin for local issue/story tracking without a cloud-based tracker.",
+      "source": { "source": "github", "repo": "lbecjx/local-backlog" }
+    }
+  ]
+}
