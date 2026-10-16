@@ -1,6 +1,6 @@
 # lbecjx
 
-Claude Code plugins I share with the community, born out of my day-to-day work as a Fullstack & AI Engineer. One place. Everything below.
+Claude Code plugins I share with the community, born out of my day-to-day work as an AI engineer. One place. Everything below.
 
 ## Quick install
 
@@ -20,7 +20,7 @@ Install any plugin:
 
 | Plugin | What it does | Install |
 |---|---|---|
-| [`workflow-dev`](https://github.com/lbecjx/workflow-dev) | Persistent-context, quality-gated development workflow — plans work into task groups, executes with enforced rules, and runs a quality gate before every commit | `/plugin install workflow-dev@lbecjx` |
+| [`workflow-dev`](https://github.com/lbecjx/workflow-dev) | Takes your story end to end, from the ticket to a PR ready for review, with guardrails at every step. Free, open-source edition of [workflow-x](https://github.com/lbecjx/workflow-x) | `/plugin install workflow-dev@lbecjx` |
 | [`local-backlog`](https://github.com/lbecjx/local-backlog) | Local issue/story tracking as plain Markdown, with a searchable local viewer — no cloud tracker needed | `/plugin install local-backlog@lbecjx` |
 
 ## License

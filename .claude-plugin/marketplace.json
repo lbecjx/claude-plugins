@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "workflow-dev",
-      "description": "A Claude Code plugin for a persistent-context, quality-gated development workflow.",
+      "description": "A Claude Code agent that takes your story end to end, from the ticket to a PR ready for review, with guardrails at every step. Free, open-source edition of workflow-x.",
       "source": { "source": "github", "repo": "lbecjx/workflow-dev" }
     },
     {
