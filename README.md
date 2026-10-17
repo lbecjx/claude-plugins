@@ -20,7 +20,7 @@ Install any plugin:
 
 | Plugin | What it does | Install |
 |---|---|---|
-| [`workflow-dev`](https://github.com/lbecjx/workflow-dev) | Takes your story end to end, from the ticket to a PR ready for review, with guardrails at every step. Free, open-source edition of [workflow-x](https://github.com/lbecjx/workflow-x) | `/plugin install workflow-dev@lbecjx` |
+| [`workflow-dev`](https://github.com/lbecjx/workflow-dev) | Takes your story end to end, from the ticket to a PR ready for review, with guardrails at every step. Free, open-source edition of [workflow-x](https://github.com/lbecjx/workflow-x-site) | `/plugin install workflow-dev@lbecjx` |
 | [`local-backlog`](https://github.com/lbecjx/local-backlog) | Local issue/story tracking as plain Markdown, with a searchable local viewer — no cloud tracker needed | `/plugin install local-backlog@lbecjx` |
 
 ## License
